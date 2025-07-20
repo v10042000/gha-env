@@ -39,5 +39,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Output information
-        run: |        
-          echo "MONGO_DB_NAME: $MONGO_DB_NAME"
+        run: |
+            echo "hello world"
+          
+
+
