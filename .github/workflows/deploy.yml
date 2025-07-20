@@ -13,7 +13,7 @@ jobs:
       MONGODB_CLUSTER_ADDRESS: cluster0.iznshlh.mongodb.net
       MONGODB_USERNAME: vamsiaathreyasa2000
       MONGODB_PASSWORD: u1KB4OJSgdg9GfNw
-      PORT: 8000
+      PORT: 8080
     environment: testing
     runs-on: ubuntu-latest
     steps:
